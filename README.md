@@ -7,11 +7,11 @@ Hello, This is a challenge from <a href="http://devchallenges.io" target="_blank
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://challenge-team-landingpage.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/IDBg6jMjxFyT7pIEbfgH">
       Solution
     </a>
     <span> | </span>
