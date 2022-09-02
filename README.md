@@ -44,7 +44,7 @@ Hello, This is a challenge from <a href="http://devchallenges.io" target="_blank
 
 ### What was my experience doing this challenge? 🐈
 
-_I am very newbie on this coding world but i like to try my skills on a challenge, Figma is a powerfull tool for developers/non designers, helps a lot to setting up a guide so you can have all your ideas in order and a clear path to develop. I feel very excited with this challenge and i hope you enjoy reading this code, give me some feedbakc on twitter i'll give you my username below._
+_I am very newbie on this coding world but i like to try my skills on a challenge, Figma is a powerfull tool for developers/non designers, helps a lot to setting up a guide so you can have all your ideas in order and a clear path to develop. I feel very excited with this challenge and i hope you enjoy reading this code, give me some feedback on twitter i'll give you my username below._
 
 ### What have i learned/improved? 🐈
 
