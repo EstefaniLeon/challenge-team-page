@@ -8,7 +8,7 @@ Hello, This is a challenge from <a href="http://devchallenges.io" target="_blank
 <div align="center">
   <h3>
     <a href="https://challenge-team-landingpage.netlify.app/">
-      Demo
+      Demo 😺
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/solutions/IDBg6jMjxFyT7pIEbfgH">
@@ -27,8 +27,8 @@ Hello, This is a challenge from <a href="http://devchallenges.io" target="_blank
 
 - [Overview](#overview)
 - [Questions](#questions)
-- [Built With](#built-with)
-- [Installing](#installing)
+- [Built With 🛠️](#built-with-🛠️)
+- [Installing 🔧](#installing-🔧)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
@@ -56,7 +56,9 @@ Try and dare, sometimes you feel a bit lost but if you don't give up and stay fo
 
 <!-- BUILD WITH -->
 
-## Built With
+## Built With 🛠️
+
+_Technologies used in the project:_
 
 - [Figma](https://www.figma.com/file/LOCOBMYkNTDOzab2zZHHBf/Team-Page-Challenge?node-id=2%3A2) _The design change a bit on the programming stage_ 😹
 - [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
@@ -66,7 +68,9 @@ Try and dare, sometimes you feel a bit lost but if you don't give up and stay fo
 - [Martel Font](https://fonts.google.com/specimen/Martel) - Text font.
 - [Oxygen Font](https://fonts.google.com/specimen/Oxygen) - Text Font
 
-## Installing
+<!-- INSTALLING -->
+
+## Installing 🔧
 
 _To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
 
@@ -74,12 +78,16 @@ _To use this project you will need to clone this repository or download it to yo
   $ git clone https://github.com/EstefaniLeon/challenge-team-page.git
 ```
 
+<!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [CSS grid by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [HTML reference](https://www.w3schools.com/tags/default.asp)
 - [Responsive design examples](https://mediaqueri.es/)
+
+<!-- CONTACT -->
 
 ## Contact
 
